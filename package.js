@@ -2,12 +2,12 @@
 //   original src code: https://github.com/meteor-factory/meteor-admin-lte/
 //   original version: v0.0.2
 //   changes:
-//     this is the tip of the official github repo which was not and will not be published to atmosphere, it removes an unused dependency to bootstrap which can cause issues
-
+//     1) changed css asset namespace to match package name (toechterundsoehne_mfactory-admin-lite)
+//     
 
 Package.describe({
   name: 'toechterundsoehne:mfactory-admin-lte',
-  version: '1.0.0',
+  version: '1.0.1',
   summary: 'Mfactory\'s AdminLTE dashboard theme (unpublished tip of offical github repo)',
   git: 'https://github.com/toechtersoehne/mfactory-admin-lte',
   documentation: 'README.md'
