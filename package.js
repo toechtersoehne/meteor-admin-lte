@@ -6,7 +6,7 @@
 
 
 Package.describe({
-  name: 'mfactory-admin-lte',
+  name: 'toechterundsoehne:mfactory-admin-lte',
   version: '1.0.0',
   summary: 'Mfactory\'s AdminLTE dashboard theme (unpublished tip of offical github repo)',
   git: 'https://github.com/toechtersoehne/mfactory-admin-lte',
