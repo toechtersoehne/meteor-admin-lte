@@ -3,11 +3,11 @@
 //   original version: v0.0.2
 //   changes:
 //     1) changed css asset namespace to match package name (toechterundsoehne_mfactory-admin-lite)
-//     
+//     2) added google fonts locally
 
 Package.describe({
   name: 'toechterundsoehne:mfactory-admin-lte',
-  version: '1.0.2',
+  version: '1.0.3',
   summary: 'Mfactory\'s AdminLTE dashboard theme (unpublished tip of offical github repo)',
   git: 'https://github.com/toechtersoehne/mfactory-admin-lte',
   documentation: 'README.md'

@@ -1,3 +1,12 @@
+# IMPORTANT:
+
+This fork does the following things:
+
+- publishes the tip of the official github repo (which is no longer maintained and removed unused dependencies)
+- adds the Source Sans Pro font locally instead of fetching it from google
+
+# Original README:
+
 AdminLTE dashboard theme
 ========================
 
