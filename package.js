@@ -15,10 +15,8 @@ Package.describe({
 
 Package.onUse(function(api) {
     api.use([
-        'templating',
-        'reactive-var',
-        'es5-shim',
-        'ecmascript'
+        'templating@1.3.2',
+        'reactive-var@1.0.11'
     ], 'client');
 
 
